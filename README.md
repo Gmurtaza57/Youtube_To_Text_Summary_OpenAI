@@ -45,4 +45,4 @@ Note:
 This code is meant for educational purposes and serves as a basic example of how to use OpenAI's GPT-3 for text summarization. It may require further customization and error handling for production use.
 
 Disclaimer: Be aware of the costs associated with using APIs like ScrapingBee and OpenAI. Make sure to review the terms and conditions of these services before using them extensively.
-# Youtube_To_Text_Summary_OpenAI
+
